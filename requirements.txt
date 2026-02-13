@@ -1,0 +1,7 @@
+streamlit
+groq
+requests
+yfinance
+pycountry
+python-dotenv
+plotly

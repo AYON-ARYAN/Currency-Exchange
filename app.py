@@ -2,7 +2,7 @@ import streamlit as st
 from agent import run_agent
 from tools import get_exchange_rates
 import requests
-
+import os
 st.set_page_config(page_title="Global Finance Dashboard", layout="wide")
 
 st.title("🌍 Global Finance Intelligence Dashboard")
